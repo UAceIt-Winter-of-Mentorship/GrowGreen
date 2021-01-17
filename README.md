@@ -1,6 +1,6 @@
 # GrowGreen
 
-`Grow Green` that allows contributors worldwide to create awareness about environment and do their bit by contributing.
+`Grow Green` allows contributors worldwide to create awareness about environment and do their bit by contributing.
 
 <p align="center">
   <a href="https://github.com/UAceIt-Winter-of-Mentorship/GrowGreen"><img src="https://img.shields.io/github/issues/UAceIt-Winter-of-Mentorship/GrowGreen?color=orange&logo=github&style=flat" title="Issues"></a>
@@ -10,7 +10,7 @@
   <br>
 
 <p align="center">
-  <img src="https://github.com/UAceIt-Winter-of-Mentorship/GrowGreen/blob/main/images/Green%20Simple%20Illustrated%20Leaf%20Environment%20Logo.png" width="50%">
+  <img src="https://github.com/UAceIt-Winter-of-Mentorship/GrowGreen/blob/main/images/Green%20Simple%20Illustrated%20Leaf%20Environment%20Logo.png?raw=true" width="50%">
  </p>
 
 ## About GrowGreen
@@ -27,14 +27,14 @@ Each user will have personal alarms & reminders. Daily reminders to water plants
 ✅This increases the community bonding for nature loving communities. 
 
 ## Future scope for this website
-After this we can also include a panel for soil testing through 'Machine Learning and Data Mining'. 
-Farmers can get direct digital reports from testing labs including some suggestions to improve their farms quality and quantity. 
+After this we can also include a panel for soil testing through 'Machine Learning and Data Mining'.
+Farmers can get direct digital reports from testing labs including some suggestions to improve their farms quality and quantity.
 
 ## Vision
 Make everyone aware enough to make them decide amongst what is right and wrong for the Environment.
 
 ## Objective:
-Help the Environment heal through our small efforts.❤ 
+Help the Environment heal through our small efforts.❤
 
 ## Themes for the UI 
 The UI themes will change according to season.
@@ -70,7 +70,7 @@ Windows:
 ## SITE MAP :
 
 <p align="center">
-  <img src="https://github.com/UAceIt-Winter-of-Mentorship/GrowGreen/blob/Sakshi-patches-to-readme/images/site-map-diagram.png" width="100%">
+  <img src="https://github.com/UAceIt-Winter-of-Mentorship/GrowGreen/blob/main/images/site-map-diagram.png?raw=true" width="100%">
  </p>
 
 ## Using <project_name>
@@ -97,15 +97,12 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Project Admins
 
-* 💜[@Sakshi Jangra](https://github.com/Sakshi-25) 
-* 💜[@Diksha Rajput](https://github.com/Diksha8448) 
-* 💜[@Riya Suntwal](https://github.com/carrisunrio) 
-* 💜[@Shivangi Sahay](https://github.com/shivangisahay14) 
+💜 [Sakshi Jangra](https://github.com/Sakshi-25)
 
 Note: We will add on more info according to the advancement of the project.
 
 ## Code of Conduct :
-ENVIRONMENT FIRST 🎀🌟
+ENVIRONMENT FIRST 💚
 
 ## License
 
