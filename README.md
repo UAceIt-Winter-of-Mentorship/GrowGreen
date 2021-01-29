@@ -13,7 +13,7 @@
   <img src="https://github.com/UAceIt-Winter-of-Mentorship/GrowGreen/blob/main/images/Green%20Simple%20Illustrated%20Leaf%20Environment%20Logo.png?raw=true" width="50%">
  </p>
 
-## About GrowGreen
+## About GrowGreen : UAceIT
 
 ✅An Eco Web App that can find nearest nursery, plant shop, organic shop etc and everything related to planting and agriculture. This way it will support small scale or big scale organic businesses.
 
