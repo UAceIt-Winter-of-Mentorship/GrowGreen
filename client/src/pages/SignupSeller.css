@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js')
+body {
+    background: #E1EBEC;
+    font-family: 'Poppins', sans-serif
+}
+
+.row {
+    width: 900px;
+    border: none;
+    border-radius: 0;
+    box-sizing: border-box
+}
+
+.lcol {
+    background: linear-gradient(to bottom, rgba(26, 111, 118, 1) 50%, rgba(40, 30, 101, 1) 100%, rgba(125, 185, 232, 1) 100%);
+    height: 550px;
+    padding: 0 35px
+}
+
+.rcol {
+    background: #fff;
+    padding: 80px;
+    height: 550px
+}
+
+span.txt {
+    color: #17C296
+}
+
+.greeting {
+    padding-top: 200px;
+    padding-right: 90px
+}
+
+h6.mt-3 {
+    padding-right: 115px
+}
+
+.footer {
+    margin-top: 220px
+}
+
+.footer span {
+    color: #B0A1E2;
+    font-size: 20px;
+    cursor: pointer
+}
+
+.fab {
+    color: #EDEDF5;
+    font-size: 10px;
+    margin-right: 20px;
+    padding-top: 3px;
+    cursor: pointer
+}
+
+h2.heading {
+    font-weight: bold
+}
+
+.form-control {
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid #F2F2F2
+}
+
+.form-control::placeholder {
+    font-size: 20px;
+    color: #C2C2CC
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-bottom: 1px solid #F2F2F2
+}
+
+.fone input {
+    padding-left: 20px
+}
+
+.fone {
+    position: relative
+}
+
+.fone .fas {
+    position: absolute;
+    left: 0;
+    top: 5px;
+    padding: 8px 0px;
+    color: #C2C2CC;
+    font-size: 20px
+}
+
+.fone .image {
+    position: absolute;
+    left: 275px;
+    top: 0px;
+    cursor: pointer
+}
+
+.form-check-input {
+    margin-top: 10px
+}
+
+.form-check-label {
+    font-size: 20px;
+    color: #C2C2CC
+}
+
+.btn-success {
+    padding: 7px 40px;
+    background: #11C892;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px
+}
+
+.btn-success:hover {
+    background: #11C892
+}
+
+.btn-success:focus {
+    box-shadow: none
+}
+
+u {
+    cursor: pointer
+}
+
+p.exist {
+    font-size: 20px;
+    color: #C2C2CC
+}
+
+p.exist span {
+    cursor: pointer;
+    color: #ABA5D3
+}
+
+@media screen and (max-width: 993px) {
+    .fone .image {
+        position: absolute;
+        left: 180px
+    }
+
+    .footer {
+        margin-top: 170px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .row {
+        width: 450px
+    }
+
+    .rcol {
+        padding: 60px 180px 60px 60px
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .rcol {
+        padding: 60px 50px 60px 50px
+    }
+
+    .footer {
+        margin-top: 140px
+    }
+}
